@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\TestAnimal\TestAnimal\bin\Debug\TestAnimal.exe.config
+C:\Users\1\source\repos\TestAnimal\TestAnimal\bin\Debug\TestAnimal.exe
+C:\Users\1\source\repos\TestAnimal\TestAnimal\bin\Debug\TestAnimal.pdb
+C:\Users\1\source\repos\TestAnimal\TestAnimal\obj\Debug\TestAnimal.csprojAssemblyReference.cache
+C:\Users\1\source\repos\TestAnimal\TestAnimal\obj\Debug\TestAnimal.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\TestAnimal\TestAnimal\obj\Debug\TestAnimal.exe
+C:\Users\1\source\repos\TestAnimal\TestAnimal\obj\Debug\TestAnimal.pdb
