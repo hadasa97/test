@@ -31,7 +31,7 @@ namespace TestAnimal
 
         public virtual void sayHello(int mood)
         {
-                        Console.Write("When the mood "+ (mood)mood);
+           Console.Write("When the mood "+ (mood)mood);
             
         }
         public  Boolean isMammals()
